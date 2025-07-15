@@ -7,8 +7,9 @@ const navbar = `
   </button>
   <div class="collapse navbar-collapse" id="navbarNav">
     <ul class="navbar-nav">
-      <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+      <li class="nav-item"><a class="nav-link" href="index.html">Projects</a></li>
       <li class="nav-item"><a class="nav-link" href="about.html">About</a></li>
+      <li class="nav-item"><a class="nav-link" href="resume.html">Resume</a></li>
     </ul>
   </div>
 </nav>
